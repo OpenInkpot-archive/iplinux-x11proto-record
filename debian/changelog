@@ -1,3 +1,10 @@
+x11proto-record (1.13.99.1-1) asimov; urgency=low
+
+  * New upstream release.
+  * Packaging cleanup.
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Sat, 26 Sep 2009 03:48:55 +0700
+
 x11proto-record (1.13.2-6) asimov; urgency=low
 
   * First build for IPlinux.
