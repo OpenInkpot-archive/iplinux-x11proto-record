@@ -1,3 +1,9 @@
+x11proto-record (1.14-1) zelazny; urgency=low
+
+  * New upstream release.
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Sun, 20 Dec 2009 01:15:38 +0600
+
 x11proto-record (1.13.99.1-1) asimov; urgency=low
 
   * New upstream release.
